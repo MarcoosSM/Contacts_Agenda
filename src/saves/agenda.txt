@@ -1,0 +1,7 @@
+Contact (Name=Aaron, surnames=Lopez, alias=Aaron, email=[aaronlpz@gmail.com], address=C/Villaverde, phone=911341313, mobilePhone=[473423423])
+Contact (Name=Julio, surnames=Verne, alias=Jules, email=[julioverne@gmail.com], address=Nantes, phone=912561358, mobilePhone=[67241121])
+Contact (Name=Javier, surnames=Martín, alias=JaviM, email=[javierm@gmail.com], address=C/Olmo, phone=931913812, mobilePhone=[625344113])
+Contact (Name=Arturo, surnames=Díaz, alias=ArturoD, email=[arturodiaz@gmail.com], address=C/Leganes, phone=936533113, mobilePhone=[631783129])
+Contact (Name=Juan, surnames=Salazar, alias=Sal, email=[jsal@hotmail.com, juansalazar@gmail.com, juansal@outlook.es], address=C/Pinares, phone=916424134, mobilePhone=[613761361, 626366515])
+Contact (Name=Pepe, surnames=Mejias, alias=PepeM, email=[mejiaspepe@hotmail.com, pepemejias@gmail.com, pepemjs@hotmail.es], address=C/Andalucia, phone=917912485, mobilePhone=[612361612, 623631616])
+Contact (Name=Salvador, surnames=Gutierrez, alias=Sal, email=[salG@hotmail.es], address=, phone=912312413, mobilePhone=[])
